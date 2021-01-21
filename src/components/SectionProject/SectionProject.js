@@ -30,7 +30,7 @@ const SectionProject = () => {
                         </p>
                         <div className="button-third mb-3" id="button-third-2">
                             <div id="slide-third"></div>
-                            <a href="https://i-tecsystems.net/"><b>See Live</b></a>
+                            <a target='_blank' href="https://i-tecsystems.net/"><b>See Live</b></a>
                         </div>
                     </div>
                     <div className='col-md-8 col-sm-12 mpImage'>
