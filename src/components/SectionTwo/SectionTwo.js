@@ -35,7 +35,7 @@ const SectionTwo = () => {
                             <p className='know-more'>
                                 <div className="button-sec" id="button-sec-2">
                                     <div id="slide-sec"></div>
-                                    <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1MwhGqWBSVZv77Ypycpmcs1uXbuoC49k0/view?usp=sharing"><b>View resume</b></a>
+                                    <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1kVh2U7goojZCrS12pVW_z6IfKv8NXbkC/view?usp=sharing"><b>View resume</b></a>
                                 </div>
                             </p>
                         </div>
