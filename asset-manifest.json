@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ViewMyProfile/static/css/main.0d98887c.chunk.css",
+    "main.js": "/ViewMyProfile/static/js/main.f1d4e84b.chunk.js",
+    "main.js.map": "/ViewMyProfile/static/js/main.f1d4e84b.chunk.js.map",
+    "runtime-main.js": "/ViewMyProfile/static/js/runtime-main.5f1aaeb1.js",
+    "runtime-main.js.map": "/ViewMyProfile/static/js/runtime-main.5f1aaeb1.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/ViewMyProfile/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.948ad6d9.chunk.js": "/ViewMyProfile/static/js/2.948ad6d9.chunk.js",
+    "static/js/2.948ad6d9.chunk.js.map": "/ViewMyProfile/static/js/2.948ad6d9.chunk.js.map",
+    "static/js/3.992437f1.chunk.js": "/ViewMyProfile/static/js/3.992437f1.chunk.js",
+    "static/js/3.992437f1.chunk.js.map": "/ViewMyProfile/static/js/3.992437f1.chunk.js.map",
+    "index.html": "/ViewMyProfile/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/ViewMyProfile/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.0d98887c.chunk.css.map": "/ViewMyProfile/static/css/main.0d98887c.chunk.css.map",
+    "static/js/2.948ad6d9.chunk.js.LICENSE.txt": "/ViewMyProfile/static/js/2.948ad6d9.chunk.js.LICENSE.txt",
+    "static/media/IMG_8208.63fcbc70.jpg": "/ViewMyProfile/static/media/IMG_8208.63fcbc70.jpg",
+    "static/media/bottleline.c4a5f4ba.png": "/ViewMyProfile/static/media/bottleline.c4a5f4ba.png",
+    "static/media/cleanroom.668b0fa6.png": "/ViewMyProfile/static/media/cleanroom.668b0fa6.png",
+    "static/media/i-tec.a7c5a325.png": "/ViewMyProfile/static/media/i-tec.a7c5a325.png",
+    "static/media/myrecipe.928d8e1a.png": "/ViewMyProfile/static/media/myrecipe.928d8e1a.png",
+    "static/media/oven.0852f6e2.png": "/ViewMyProfile/static/media/oven.0852f6e2.png",
+    "static/media/proshop-acc.80d26ffb.png": "/ViewMyProfile/static/media/proshop-acc.80d26ffb.png",
+    "static/media/proshop.a21f5a3c.png": "/ViewMyProfile/static/media/proshop.a21f5a3c.png",
+    "static/media/psms.a0e26d37.png": "/ViewMyProfile/static/media/psms.a0e26d37.png",
+    "static/media/toolalgo-login.298bf055.png": "/ViewMyProfile/static/media/toolalgo-login.298bf055.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1aaeb1.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.948ad6d9.chunk.js",
+    "static/css/main.0d98887c.chunk.css",
+    "static/js/main.f1d4e84b.chunk.js"
+  ]
+}
