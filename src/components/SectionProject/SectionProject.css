@@ -1,0 +1,64 @@
+#three {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+  margin: 0px;
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.button-third {
+  display: inline-flex;
+  height: 40px;
+  width: 150px;
+  border: 2px solid #02aab0;
+  color: #bfc0c0;
+  text-decoration: none;
+  font-size: 1rem;
+  letter-spacing: 1.5px;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+a {
+  color: #bfc0c0;
+  text-decoration: none;
+  letter-spacing: 1px;
+  padding: 18px 23px;
+}
+
+#button-third-2 {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#button-third-2 a {
+  position: relative;
+  transition: all 0.05s ease-in-out;
+  text-decoration: none;
+  color: #02aab0;
+}
+
+#slide-third {
+  width: 100%;
+  height: 100%;
+  left: -200px;
+  background: #02aab0;
+  position: absolute;
+  transition: all 0.2s ease;
+  bottom: 0;
+}
+
+#button-third-2:hover #slide-third {
+  left: 0;
+}
+
+#button-third-2:hover a {
+  color: #fff;
+}

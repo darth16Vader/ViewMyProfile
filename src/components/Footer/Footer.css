@@ -1,0 +1,14 @@
+#footer {
+  background-color: #333333;
+  color: #fff;
+  padding: 4.8rem 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#footer hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  width: 50%;
+  border-top: 2px solid rgba(255, 255, 255, 0.1);
+}
