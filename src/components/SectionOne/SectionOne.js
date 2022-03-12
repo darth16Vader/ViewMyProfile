@@ -7,7 +7,7 @@ const sectionOne = () => {
             <div id='one' className='jumbotron'>
                 <div className='container'>
                 <h1 className='one-title mb-5 headline mh'>Hi, my name is <span style={{color:'#00cdac'}}>Alvin Paala</span><br />
-                I'm a Front-end Developer.</h1>
+                I'm a Web Developer.</h1>
                 <p className='know-more headline-button mh-button'>
                     <div class="button" id="button-2">
                         <div id="slide"></div>
