@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/icons8-stormtrooper-24.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" rel="stylesheet">
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script>
+      ScrollReveal({ reset: false });
+    </script>
+    <title>Alvin Paala | Front-end Developer</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+  <script>
+    // Desktop
+    ScrollReveal().reveal('.headline',{ mobile: false, distance: '30px',origin: 'left',delay: 100, easing: 'cubic-bezier(.67,.43,.68,.8)'});
+    ScrollReveal().reveal('.headline-button',{ mobile: false, distance: '30px',origin: 'left',delay: 800 , easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.myImage',{ mobile: false, distance: '30px',origin: 'bottom',delay: 500, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.myImageInfo',{ mobile: false, distance: '30px',origin: 'left',delay: 800, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.title-design', { mobile: false, delay: 100, reset: false });
+    ScrollReveal().reveal('.img-project', { mobile: false, distance: '30px',origin: 'left', delay: 600, reset: false });
+    ScrollReveal().reveal('.info-project', { mobile: false, distance: '30px',origin: 'right', delay: 600, reset: false });
+
+    // mobile
+    ScrollReveal().reveal('.mh',{ desktop: false, distance: '30px',origin: 'bottom',delay: 100, easing: 'cubic-bezier(.67,.43,.68,.8)'});
+    ScrollReveal().reveal('.mh-button',{ desktop: false, distance: '30px',origin: 'bottom',delay: 800, easing: 'cubic-bezier(.67,.43,.68,.8)'});
+    ScrollReveal().reveal('.mtitle', { desktop: false, delay: 400, reset: false });
+    ScrollReveal().reveal('.mImage',{ desktop: false, distance: '30px',origin: 'bottom',delay: 500, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.mInfo',{ desktop: false, distance: '30px',origin: 'bottom',delay: 500, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.mpImage',{ desktop: false, distance: '30px',origin: 'bottom',delay: 800, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+    ScrollReveal().reveal('.mContact',{ desktop: true, distance: '30px',origin: 'bottom',delay: 800, easing: 'cubic-bezier(.67,.43,.68,.8)' });
+
+  </script>
+</html>
